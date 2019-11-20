@@ -3,7 +3,7 @@
 <hr>
 <p>
 <h5>Faculdade de Tecnologia de Americana</h5>
-Professor: Kleber Andrade  / <a target="_blank" href="http://github.com/kleberandrade">github.com</a><br>
+Curso: Análise e desenvolvimento de Sistemas<br>Professor: Kleber Andrade  / <a target="_blank" href="http://github.com/kleberandrade">github.com</a><br>
 Disciplina: Programação Dispositivos Móveis<br>
 3º Semestre
 <h5>Desenvolvedores:</h5>
