@@ -29,7 +29,7 @@ Este aplicativo foi desevolvido com a finalidade de compartilhar frases criativa
 <li> Linguagem: Dart/Flutter<br>
 <li> Banco de Dados: FireStore<br>
 <br>
-<strong>Extensões necessárias:</strong><br>
+<h5>Extensões necessárias:</h5><br>
 <li> Firebase Cloud
 
 </p>
