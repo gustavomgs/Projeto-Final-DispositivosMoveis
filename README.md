@@ -17,7 +17,7 @@ Disciplina: Programação Dispositivos Móveis<br>
 <hr>
 <p><h5>Aplicativo de frases para status:</h5>
 Este aplicativo foi desevolvido com a finalidade de compartilhar frases criativas para qualquer uso.
-
+<br><br>
 <p align="center">
 <img  src="https://github.com/gustavomgs/Projeto-Final-DispositivosMoveis/blob/master/images/img1.png" height="400">
 <br>
