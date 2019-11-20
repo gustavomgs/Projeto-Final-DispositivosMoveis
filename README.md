@@ -20,6 +20,8 @@ Este aplicativo foi desevolvido com a finalidade de compartilhar frases criativa
 <br><br>
 <p align="center">
 <img  src="https://github.com/gustavomgs/Projeto-Final-DispositivosMoveis/blob/master/images/img1.png" height="400">
+<img  src="https://github.com/gustavomgs/Projeto-Final-DispositivosMoveis/blob/master/images/img2.png" height="400">
+<img  src="https://github.com/gustavomgs/Projeto-Final-DispositivosMoveis/blob/master/images/img3.png" height="400">
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.estoquesoluction.lowcarb" target="_blank"><img src="https://4.bp.blogspot.com/-1LBva3U1LCI/W6kL2pl9ZYI/AAAAAAAAFys/grkBZRKkAWE1eLAh6DPffThJ7gP__SREACLcBGAs/s1600/play_logo_16_9%2B%25285%2529.png" target="_blank" height="100"></a>
 </p>
